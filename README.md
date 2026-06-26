@@ -73,14 +73,4 @@ An AI-powered smart climate control dashboard that predicts temperature changes 
 - Multi-room climate management
 - User preference learning
 
-## 📷 Dashboard Preview
 
-Add your dashboard screenshot here:
-
-```html
-<img src="images/dashboard.png" alt="Hushaar AI Dashboard" width="100%">
-```
-
----
-
-*Building intelligent and energy-efficient climate solutions using AI and IoT.*
